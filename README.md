@@ -2,7 +2,7 @@
 
 Technology Used :- Html, Css and JavaScript.
 
-Project Link-- https://saaandyyy.github.io/StopWatch/
+Project Link-- https://tsmritunjay7654.github.io/StopWatch/
 
 Here is my Screenshot of the normal page:-
 ![start](https://user-images.githubusercontent.com/88620876/195398114-4f5e01bf-7e3f-4093-8c12-988a126f7068.png)
